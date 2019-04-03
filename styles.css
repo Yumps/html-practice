@@ -1,0 +1,23 @@
+#yes {
+  font-size: xx-large;
+  font-weight: bolder;
+  border: outset 25px blue;
+  text-align: center;
+}
+#bigboi {
+  text-align: center;
+}
+#yert {
+  text-align: center;
+}
+#yup > ul > li {
+  text-align: center;
+  list-style-type: none;
+}
+#uhuh > ul {
+  text-align: center;
+}
+#uhuh > ul > li {
+  text-align: center;
+  list-style-type: none;
+}
